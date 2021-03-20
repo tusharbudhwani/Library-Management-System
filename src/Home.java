@@ -7,10 +7,6 @@ import javax.swing.JFrame;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Datwani's
- */
 public class Home extends javax.swing.JFrame {
 
     /**
