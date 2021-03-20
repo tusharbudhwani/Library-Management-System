@@ -10,10 +10,6 @@ import javax.swing.JOptionPane;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Datwani's
- */
 public class issueBook extends javax.swing.JFrame {
 
     /**
