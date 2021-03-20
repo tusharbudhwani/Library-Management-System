@@ -6,10 +6,7 @@
 import javax.swing.JOptionPane;
 import java.sql.*;
 import Project.ConnectionProvider;/*
-/**
- *
- * @author Datwani's
- */
+
 
 public class newStudent extends javax.swing.JFrame {
 
