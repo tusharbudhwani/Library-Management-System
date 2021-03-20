@@ -5,10 +5,7 @@
  */
 package library.management.system;
 
-/**
- *
- * @author Datwani's
- */
+
 public class LibraryManagementSystem {
 
     /**
