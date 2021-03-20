@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Datwani's
- */
 import java.sql.*;
 import Project.ConnectionProvider;
 import javax.swing.JOptionPane;
