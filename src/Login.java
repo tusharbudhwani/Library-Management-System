@@ -8,10 +8,6 @@ import javax.swing.JOptionPane;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Datwani's
- */
 public class Login extends javax.swing.JFrame {
 
     /**
