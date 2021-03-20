@@ -8,10 +8,6 @@ import javax.swing.JOptionPane;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Datwani's
- */
 public class returnBook extends javax.swing.JFrame {
 
     /**
