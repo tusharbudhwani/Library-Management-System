@@ -7,10 +7,6 @@ import Project.ConnectionProvider;/*
 import javax.swing.JOptionPane;
 import net.proteanit.sql.DbUtils;
 
-/**
- *
- * @author Datwani's
- */
 public class statistics extends javax.swing.JFrame {
 
     /**
